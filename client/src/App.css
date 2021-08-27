@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
+
+.auth-card{
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+}
+.mycard{
+  margin-top: 30px;
+}
+.brand-logo{
+  font-family: 'MonteCarlo', cursive;
+
+}
+.profile{
+  margin-top: 10px;
+}
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.item{
+  width: 30%;
+  margin-top: 10px;
+}
+
+#toast-container{
+  top: 30px !important;
+  right: 20px !important;
+  left: auto !important;
+}
+
+.home-card{
+  max-width: 500px;
+  height: max-content;
+  margin: 26px auto;
+}
